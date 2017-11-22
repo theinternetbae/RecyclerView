@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MDesign</string>
+    <string name="emoji1">emoji1</string>
+    <string name="titleTextView">Title</string>
+    <string name="todo2">TODO</string>
+    <string name="imageCopy">imageCopy</string>
+</resources>
